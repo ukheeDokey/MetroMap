@@ -10,7 +10,7 @@ const initialData = [
   { id: "6", type: "subway", label: "123 -> 904" },
 ];
 
-export default function MenuScreen() {
+export default function BookMark() {
   const [data, setData] = useState([]);
 
   // 앱 실행 시 초기 데이터 로드
