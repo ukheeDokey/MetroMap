@@ -67,17 +67,17 @@ const styles = StyleSheet.create({
     backgroundColor: "#87CEEB",
     flexDirection: "row",
     alignItems: "center",
-    justifyContent: "center",
     paddingVertical: 10,
+    paddingLeft: 15, // 좌측 여백 추가
   },
   headerIcon: {
-    width: 80,
-    height: 80,
-    marginRight: 140,
+    width: 55,
+    height: 55,
+    marginRight: 15, // 아이콘과 텍스트 사이 간격
   },
   headerText: {
     color: "white",
-    fontSize: 30,
+    fontSize: 26,
     fontWeight: "bold",
   },
   logoContainer: {
