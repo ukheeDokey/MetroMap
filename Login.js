@@ -133,8 +133,8 @@ const styles = StyleSheet.create({
     left: 20,
   },
   backIcon: {
-    width: 30,
-    height: 30,
+    width: 40,
+    height: 40,
     tintColor: "#87CEEB",
   },
 });

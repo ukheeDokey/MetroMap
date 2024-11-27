@@ -99,8 +99,8 @@ const styles = StyleSheet.create({
     marginBottom: 20, // 추가된 간격
   },
   backIcon: {
-    width: 30,
-    height: 30,
+    width: 40,
+    height: 40,
   },
 });
 
